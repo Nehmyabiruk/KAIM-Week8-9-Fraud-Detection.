@@ -21,7 +21,7 @@ data/: Datasets (not uploaded due to 10 Academy restrictions).
 
 Setup Instructions
 
-Clone the repository: git clone https://github.com/[YourUsername]/KAIM-Week8-9-Fraud-Detection.git
+Clone the repository: git clone https://github.com/[Nehmyabiruk]/KAIM-Week8-9-Fraud-Detection.git
 Install dependencies: pip install -r requirements.txt
 Run notebooks in notebooks/ using Jupyter.
 
